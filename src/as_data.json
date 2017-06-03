@@ -1,0 +1,135 @@
+{
+    "audiences": {
+        "llbean_main_119": "New Visitor (visit=1)"
+    },
+    "badges": {
+        "5178": true,
+        "5353": true,
+        "5714": true
+    },
+    "current_visit": {
+        "dates": {
+            "10": 1496505702000
+        },
+        "flags": {
+            "14": true,
+            "5208": true,
+            "5357": false,
+            "5359": true,
+            "5367": true,
+            "5413": false,
+            "5415": false,
+            "5417": false,
+            "5430": false,
+            "5432": true,
+            "5434": true,
+            "5800": false,
+            "5810": false,
+            "5812": false
+        },
+        "metric_sets": {
+            "5401": {
+                "Women's": 1
+            },
+            "5403": {
+                "Women's Swimwear": 1
+            },
+            "5513": {
+                "624": 1
+            },
+            "5521": {
+                "": 2,
+                "Women's": 1
+            },
+            "5540": {
+                "27-624": 1
+            },
+            "5546": {
+                "": 1,
+                "Women's": 1
+            }
+        },
+        "metrics": {
+            "5214": 0,
+            "5814": 0,
+            "7": 2
+        },
+        "properties": {
+            "44": "Chrome",
+            "45": "Mac OS X",
+            "46": "Mac desktop",
+            "47": "browser",
+            "48": "Chrome",
+            "5": "https://www.llbean.com/",
+            "5400": "Women's",
+            "5402": "Women's Swimwear",
+            "5444": "A0A64CA2300000EAF5932DD64l4DBB",
+            "5447": "prod",
+            "5503": "main",
+            "5507": "guest",
+            "5512": "624",
+            "5520": "",
+            "5539": "27-624",
+            "5545": ""
+        },
+        "property_sets": {
+            "49": ["Chrome"],
+            "50": ["Mac OS X"],
+            "51": ["Mac desktop"],
+            "52": ["browser"],
+            "53": ["Chrome"],
+            "5511": ["624"],
+            "5519": ["", "Women's"]
+        }
+    },
+    "dates": {
+        "23": 1496505702000,
+        "24": 1496505702000,
+        "audience_llbean_main_119_count_ts": 1496505702228
+    },
+    "flags": {
+        "5298": false,
+        "5361": true,
+        "5438": false,
+        "5449": false,
+        "5487": false,
+        "5499": false,
+        "5501": false,
+        "5532": false,
+        "5604": false,
+        "5606": true
+    },
+    "metric_sets": {
+        "5188": {
+            "1": 1
+        },
+        "5282": {
+            "[]": 2
+        }
+    },
+    "metrics": {
+        "15": 1,
+        "21": 1,
+        "22": 2,
+        "28": 0,
+        "5222": 1,
+        "5224": 0,
+        "5230": 1,
+        "5270": 0
+    },
+    "properties": {
+        "17": "https://www.llbean.com/llb/shop/624",
+        "5186": "1",
+        "5187": "1",
+        "5280": "[]",
+        "5281": "[]",
+        "5466": "60cc5933-dd65-4300-bc28-bd2d1e077061",
+        "5593": "A0A64CA2300000EAF5932DD64l4DBB",
+        "5618": "015c6eb0d4e400162e0f043da02204077001706f00ac2",
+        "account": "llbean",
+        "profile": "main"
+    },
+    "property_sets": {
+        "5480": []
+    }
+}
