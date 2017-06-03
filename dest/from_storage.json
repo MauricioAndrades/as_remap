@@ -1,5 +1,5 @@
 {
-  "audiences": {"llbean_main_119": "New Visitor (visit=1)"},
+  "audiences": {"example_main_119": "New Visitor (visit=1)"},
   "badges": {"5178": true, "5353": true, "5714": true},
   "current_visit": {
     "dates": {"10": 1496505702000},
@@ -29,7 +29,7 @@
     },
     "metrics": {"7": 2, "5214": 0, "5814": 0},
     "properties": {
-      "5": "https://www.llbean.com/",
+      "5": "https://www.example.com/",
       "44": "Chrome",
       "45": "Mac OS X",
       "46": "Mac desktop",
@@ -59,7 +59,7 @@
   "dates": {
     "23": 1496505702000,
     "24": 1496505702000,
-    "audience_llbean_main_119_count_ts": 1496505702228
+    "audience_example_main_119_count_ts": 1496505702228
   },
   "flags": {
     "5298": false,
@@ -85,7 +85,7 @@
     "5270": 0
   },
   "properties": {
-    "17": "https://www.llbean.com/llb/shop/624",
+    "17": "https://www.example.com/llb/shop/624",
     "5186": "1",
     "5187": "1",
     "5280": "[]",
@@ -93,7 +93,7 @@
     "5466": "60cc5933-dd65-4300-bc28-bd2d1e077061",
     "5593": "A0A64CA2300000EAF5932DD64l4DBB",
     "5618": "015c6eb0d4e400162e0f043da02204077001706f00ac2",
-    "account": "llbean",
+    "account": "example",
     "profile": "main"
   },
   "property_sets": {"5480": {}}
